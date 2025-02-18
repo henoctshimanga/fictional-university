@@ -1,0 +1,386 @@
+[06-Feb-2025 23:52:42 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/experiment.php on line 1
+[06-Feb-2025 23:52:56 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/experiment.php on line 1
+[06-Feb-2025 23:53:20 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/experiment.php on line 1
+[07-Feb-2025 00:01:24 UTC] PHP Parse error:  syntax error, unexpected variable "$myname" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/experiment.php on line 5
+[07-Feb-2025 00:37:47 UTC] PHP Warning:  Undefined variable $name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[07-Feb-2025 00:37:47 UTC] PHP Warning:  Undefined variable $color in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[07-Feb-2025 00:37:47 UTC] PHP Warning:  Undefined variable $name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[07-Feb-2025 00:37:47 UTC] PHP Warning:  Undefined variable $color in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[07-Feb-2025 00:38:39 UTC] PHP Warning:  Undefined variable $name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[07-Feb-2025 00:38:39 UTC] PHP Warning:  Undefined variable $color in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[07-Feb-2025 00:38:39 UTC] PHP Warning:  Undefined variable $name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[07-Feb-2025 00:38:39 UTC] PHP Warning:  Undefined variable $color in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[07-Feb-2025 00:40:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function MyFirst(), 0 passed in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 5 and exactly 2 expected in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php:2
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(5): MyFirst()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#4 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 2
+[07-Feb-2025 00:41:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function MyFirst(), 1 passed in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 5 and exactly 2 expected in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php:2
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(5): MyFirst('Henoc')
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#4 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 2
+[07-Feb-2025 00:41:13 UTC] PHP Warning:  Undefined variable $color in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[07-Feb-2025 00:41:13 UTC] PHP Warning:  Undefined variable $color in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[07-Feb-2025 00:46:48 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 8
+[12-Feb-2025 15:46:14 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[12-Feb-2025 15:46:14 UTC] PHP Fatal error:  Failed opening required '/Volumes/Install Local/Local.app/Contents/Resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0
+[12-Feb-2025 15:46:14 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[12-Feb-2025 15:46:14 UTC] PHP Fatal error:  Failed opening required '/Volumes/Install Local/Local.app/Contents/Resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0
+[12-Feb-2025 16:03:55 UTC] PHP Parse error:  syntax error, unexpected identifier "_content" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 34
+[12-Feb-2025 16:04:01 UTC] PHP Parse error:  syntax error, unexpected identifier "_content" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 34
+[12-Feb-2025 16:04:17 UTC] PHP Parse error:  syntax error, unexpected identifier "_contents" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 34
+[12-Feb-2025 18:31:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_pages() in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:40
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#3 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 40
+[12-Feb-2025 18:51:24 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 50
+[13-Feb-2025 18:20:09 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-customize-widgets.php on line 923
+[13-Feb-2025 18:20:23 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-customize-widgets.php on line 923
+[13-Feb-2025 22:36:52 UTC] PHP Parse error:  syntax error, unexpected identifier "get_footer" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[13-Feb-2025 23:40:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hte_title() in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php:20
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#3 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 20
+[14-Feb-2025 00:01:19 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php:23
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#3 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 23
+[14-Feb-2025 00:35:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "paginate" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php:34
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#3 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 34
+[15-Feb-2025 03:10:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_caterogy() in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php:7
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#3 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php on line 7
+[15-Feb-2025 03:13:18 UTC] PHP Parse error:  syntax error, unexpected identifier "the_author", expecting "," or ";" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php on line 11
+[15-Feb-2025 03:13:34 UTC] PHP Parse error:  syntax error, unexpected identifier "the_author", expecting "," or ";" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php on line 11
+[18-Feb-2025 23:08:30 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/henoctsh...')
+#6 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:30 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/edit.php(10): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:31 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:37 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:40 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/edit.php(10): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:41 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:41 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/themes.php(10): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:41 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:43 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/edit.php(10): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:43 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:45 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/post.php(12): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:45 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:46 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/post-new.php(10): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:46 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:47 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/post.php(12): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:47 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:48 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/post-new.php(10): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:49 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:49 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/post.php(12): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:49 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:50 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/post-new.php(10): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:50 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/edit.php(10): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:52 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:52 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:58 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/admin.php(34): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-admin/index.php(10): require_once('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Feb-2025 23:08:58 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-settings.php(704): do_action('init')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-config.php(103): require_once('/Users/henoctsh...')
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-load.php(50): require_once('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(13): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
