@@ -384,3 +384,24 @@ Stack trace:
 #6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
 #7 {main}
   thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 324
+[19-Feb-2025 14:43:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php:19
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#3 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 19
+[19-Feb-2025 14:44:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php:19
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#3 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 19
+[19-Feb-2025 14:45:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WP_Query() in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php:19
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#3 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 19
