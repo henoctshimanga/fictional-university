@@ -405,3 +405,27 @@ Stack trace:
 #2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
 #3 {main}
   thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 19
+[19-Feb-2025 16:02:48 UTC] PHP Warning:  Undefined variable $homepageEvents in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 16
+[19-Feb-2025 16:02:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:16
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#3 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 16
+[19-Feb-2025 16:23:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_type_archive_link(), 0 passed in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 21 and exactly 1 expected in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/link-template.php:1302
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php(21): get_post_type_archive_link()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#4 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/link-template.php on line 1302
+[19-Feb-2025 16:23:29 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_type_archive_link(), 0 passed in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 21 and exactly 1 expected in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/link-template.php:1302
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php(21): get_post_type_archive_link()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#4 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/link-template.php on line 1302
