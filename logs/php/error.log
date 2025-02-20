@@ -429,3 +429,24 @@ Stack trace:
 #3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
 #4 {main}
   thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/link-template.php on line 1302
+[19-Feb-2025 16:57:56 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 34
+[19-Feb-2025 16:58:02 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 34
+[19-Feb-2025 17:04:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_type_link() in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php:50
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#3 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 50
+[19-Feb-2025 17:09:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "get_post" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:22
+Stack trace:
+#0 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template.php(810): require_once()
+#1 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template.php(745): load_template('/Users/henoctsh...', true, Array)
+#2 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php(2): get_header()
+#4 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/henoctsh...')
+#5 /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/henoctsh...')
+#6 /Users/henoctshimanga/Local Sites/fictional-university/app/public/index.php(17): require('/Users/henoctsh...')
+#7 {main}
+  thrown in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 22
+[19-Feb-2025 19:27:59 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in /Users/henoctshimanga/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page-past-events.php on line 18
